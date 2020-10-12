@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MyBank</id>
+    <version>1.0.0</version>
+    <authors>MyBank</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\demet\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.runtimeconfig.json" target="lib\netcoreapp3.1\MyBank.runtimeconfig.json" />
+    <file src="C:\Users\demet\source\repos\MyBank\MyBank\bin\Debug\netcoreapp3.1\MyBank.dll" target="lib\netcoreapp3.1\MyBank.dll" />
+  </files>
+</package>
